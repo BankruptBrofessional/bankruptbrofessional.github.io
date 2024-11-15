@@ -1,4 +1,4 @@
-# BankruptBrofessional <bankruptbrofessional.github.io>
+# getpoor.freesite.online <getpoor.freesite.online>
 VERSION="2.5.0"
 
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
@@ -10,10 +10,10 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="Get Poor"
-ORG_DBA="bankruptbrofessional.github.io"
+ORG_DBA="getpoor.freesite.online"
 ORG_URL="https://discord.gg/tXW7WK6x6s"
 ORG_DESCRIPTION="Broke but hopeful. Always looking for the next get-rich-quick scheme (that actually works). Get Poor: https://discord.gg/tXW7WK6x6s."
-ORG_LOGO = "https://bankruptbrofessional.github.io/.well-known/BankruptBrofessional.png"
+ORG_LOGO = "https://getpoor.freesite.online/.well-known/GetPoor.png"
 ORG_PHYSICAL_ADDRESS="The Poorest Place on Earth"
 ORG_GITHUB="bankruptbrofessional"
 ORG_OFFICIAL_EMAIL="188416067+BankruptBrofessional@users.noreply.github.com"
@@ -31,4 +31,4 @@ name="Get Poor"
 status="live"
 display_decimals=7
 desc="Come brothers, let's Get Poor together!"
-image="https://bankruptbrofessional.github.io/.well-known/GetPoor.png"
+image="https://getpoor.freesite.online/.well-known/GetPoor.png"
