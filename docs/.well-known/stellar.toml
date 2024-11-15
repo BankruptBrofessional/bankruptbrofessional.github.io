@@ -1,0 +1,34 @@
+# BankruptBrofessional <bankruptbrofessional.github.io>
+VERSION="2.5.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+HORIZON_URL="https://horizon.stellar.org"
+ACCOUNTS=[
+"GCW4N7LSZOJ46HMHYX7LDD232VZFNVISXMI3DH2AE23XLWWA3Q4G7QTB",
+"GBSPORQN6GSFBGE3EVKAKGKLWX6E6UKBTWQDVU3YXRICGJRG6I663HVL"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Get Poor"
+ORG_DBA="bankruptbrofessional.github.io"
+ORG_URL="https://discord.gg/tXW7WK6x6s"
+ORG_DESCRIPTION="Broke but hopeful. Always looking for the next get-rich-quick scheme (that actually works). Get Poor: https://discord.gg/tXW7WK6x6s."
+ORG_LOGO = "https://bankruptbrofessional.github.io/.well-known/BankruptBrofessional.png"
+ORG_PHYSICAL_ADDRESS="The Poorest Place on Earth"
+ORG_GITHUB="bankruptbrofessional"
+ORG_OFFICIAL_EMAIL="188416067+BankruptBrofessional@users.noreply.github.com"
+ORG_SUPPORT_EMAIL="188416067+BankruptBrofessional@users.noreply.github.com"
+
+[[PRINCIPALS]]
+name="BankruptBrofessional"
+email="188416067+BankruptBrofessional@users.noreply.github.com"
+github="bankruptbrofessional"
+
+[[CURRENCIES]]
+code="Poor"
+issuer="GCW4N7LSZOJ46HMHYX7LDD232VZFNVISXMI3DH2AE23XLWWA3Q4G7QTB"
+name="Get Poor"
+status="live"
+display_decimals=7
+desc="Come brothers, let's Get Poor together!"
+image="https://bankruptbrofessional.github.io/.well-known/GetPoor.png"
